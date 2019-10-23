@@ -1,0 +1,6 @@
+﻿  2019k_pos_info_system_console.cpp
+  communicate_mpu.cpp
+  machine_info.cpp
+C:\Users\SotaKobayashi\Google ドライブ\user\Git\2019k\2019k_pos_info_system_console\lrf.hpp(5,10): fatal error C1083: include ファイルを開けません。'urg_sensor.h':No such file or directory
+  serial.cpp
+C:\Users\SotaKobayashi\Google ドライブ\user\Git\2019k\2019k_pos_info_system_console\lrf.hpp(5,10): fatal error C1083: include ファイルを開けません。'urg_sensor.h':No such file or directory

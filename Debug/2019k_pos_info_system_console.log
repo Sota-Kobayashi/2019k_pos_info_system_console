@@ -1,0 +1,9 @@
+﻿  2019k_pos_info_system_console.cpp
+  communicate_mpu.cpp
+  machine_info.cpp
+C:\Users\SotaKobayashi\Google ドライブ\user\Git\2019k\2019k_pos_info_system_console\machine_info.cpp(22,36): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+  serial.cpp
+  コードを生成中...
+C:\Users\SotaKobayashi\Google ドライブ\user\Git\2019k\2019k_pos_info_system_console\machine_info.cpp(23,36): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+machine_info.obj : error LNK2019: 未解決の外部シンボル _urg_get_distance が関数 "public: int __thiscall LRF::getDistance<1080>(class std::array<long,1080> &)" (??$getDistance@$0EDI@@LRF@@QAEHAAV?$array@J$0EDI@@std@@@Z) で参照されました。
+C:\Users\SotaKobayashi\Google ドライブ\user\Git\2019k\2019k_pos_info_system_console\Debug\2019k_pos_info_system_console.exe : fatal error LNK1120: 1 件の未解決の外部参照

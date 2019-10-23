@@ -1,0 +1,59 @@
+﻿  Connection_information.cpp
+  get_distance.cpp
+  コード生成しています。
+LINK : fatal error C1001: コンパイラで内部エラーが発生しました。
+  (コンパイラ ファイル 'd:\agent\_work\1\s\src\vctools\Compiler\Utc\src\p2\main.c'、行 160)
+   この問題を回避するには、上記の場所付近のプログラムを単純化するか変更してください。
+  詳細については、Visual C++ ヘルプ メニューのサポート情報コマンドを
+  選択してください。またはサポート情報 ヘルプ ファイルを参照してください。
+    link!InvokeCompilerPass()+0x2e3f2
+    link!InvokeCompilerPass()+0x21eff
+    link!InvokeCompilerPass()+0x21e20
+    link!InvokeCompilerPass()+0x2d4a0
+    link!CloseTypeServerPDB()+0x2f8bf
+    link!CloseTypeServerPDB()+0x2f805
+    link!CloseTypeServerPDB()+0x6664
+    link!CloseTypeServerPDB()+0x623f
+    link!InvokeCompilerPassW()+0xd55
+    link!InvokeCompilerPassW()+0x2c4
+  
+LINK : fatal error C1001: コンパイラで内部エラーが発生しました。
+  (コンパイラ ファイル 'd:\agent\_work\1\s\src\vctools\Compiler\Utc\src\p2\main.c'、行 160)
+   この問題を回避するには、上記の場所付近のプログラムを単純化するか変更してください。
+  詳細については、Visual C++ ヘルプ メニューのサポート情報コマンドを
+  選択してください。またはサポート情報 ヘルプ ファイルを参照してください。
+    link!InvokeCompilerPass()+0x2e3f2
+    link!InvokeCompilerPass()+0x21eff
+    link!InvokeCompilerPass()+0x21e20
+    link!InvokeCompilerPass()+0x2d4a0
+    link!CloseTypeServerPDB()+0x2f8bf
+    link!CloseTypeServerPDB()+0x2f805
+    link!CloseTypeServerPDB()+0x6664
+    link!CloseTypeServerPDB()+0x623f
+    link!InvokeCompilerPassW()+0xd55
+    link!InvokeCompilerPassW()+0x2c4
+  
+  
+LINK : fatal error LNK1000: Internal error during IMAGE::BuildImage
+  
+    Version 14.23.28106.4
+  
+    ExceptionCode            = C0000005
+    ExceptionFlags           = 00000000
+    ExceptionAddress         = 0F8F3C0A (0F450000) "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\c2.dll"
+    NumberParameters         = 00000002
+    ExceptionInformation[ 0] = 00000000
+    ExceptionInformation[ 1] = 060AEAAC
+  
+  CONTEXT:
+    Eax    = 00000000  Esp    = 006FE8A0
+    Ebx    = 060AEAAC  Ebp    = 006FE8B0
+    Ecx    = 00001505  Esi    = 00000000
+    Edx    = 00000000  Edi    = 00000000
+    Eip    = 0F8F3C0A  EFlags = 00010246
+    SegCs  = 00000023  SegDs  = 0000002B
+    SegSs  = 0000002B  SegEs  = 0000002B
+    SegFs  = 00000053  SegGs  = 0000002B
+    Dr0    = 00000000  Dr3    = 00000000
+    Dr1    = 00000000  Dr6    = 00000000
+    Dr2    = 00000000  Dr7    = 00000000

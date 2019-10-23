@@ -1,0 +1,11 @@
+﻿  cl : コマンド ライン warning D9035 : オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  urg_utils.c
+  urg_tcpclient.c
+  urg_serial_utils.c
+  urg_serial.c
+  urg_sensor.c
+  urg_ring_buffer.c
+  urg_debug.c
+  urg_connection.c
+  コードを生成中...
+  urg.vcxproj -> C:\Users\SotaKobayashi\Google ドライブ\urg_library_ja-1.2.4\vs2017\cpp\Win32\Debug\urg.lib
